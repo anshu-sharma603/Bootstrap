@@ -7,7 +7,7 @@ A responsive webpage built using **Bootstrap 5**, featuring a navigation bar, a 
 
 ---
 
-## ✨ Features
+## ✨ Features------
 
 - ✅ Responsive **Navbar** with Home, Features, Pricing, and Disabled links
 - ✅ **Search bar** integrated in the navbar
