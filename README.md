@@ -17,7 +17,7 @@ A responsive webpage built using **Bootstrap 5**, featuring a navigation bar, a 
 
 ---
 
-## 🛠️ Tech Stack----------
+## 🛠️ Tech Stack------------
 
 
 | Technology | Usage |
