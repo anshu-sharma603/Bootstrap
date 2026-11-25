@@ -1,4 +1,4 @@
-#  📸 Bootstrap Photography Page---------
+#📸 Bootstrap Photography Page---------
 
 
 
